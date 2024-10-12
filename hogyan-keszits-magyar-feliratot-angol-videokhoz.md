@@ -63,3 +63,11 @@ Könnyen megérthető tutorial!
 
 ![Feliratozás](https://i.imgur.com/C3FI31B.png)
 ![Feliratozás](https://i.imgur.com/ikRaaJq.png)
+
+### Menj fel a https://translatesubtitles.co/ és töltsd fel az előbb leexportált feliratfájlt!
+![Feliratozás](https://i.imgur.com/JmbM5lJ.png)
+![Feliratozás](https://i.imgur.com/i8V5srj.png)
+
+### Menj az egérmutatóddal a nyelv kiválasztása gombra, majd válaszd ki a magyar nyelvet!
+![Feliratozás](https://i.imgur.com/fxzYU7t.png)
+![Feliratozás](https://i.imgur.com/3vPFRMH.png)
