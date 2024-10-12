@@ -32,4 +32,7 @@ Könnyen megérthető tutorial!
 
 ## 2. Lépés - Feliratozás
 - Menj fel és regisztrálj a https://web.descript.com/ oldalon! 
-![Feliratozás]
+![Feliratozás](https://i.imgur.com/ivR8e6i.png)
+
+- Regisztráció után válaszd ki a "New project" gombot!
+![Feliratozás](https://i.imgur.com/G7PrCyS.png)
