@@ -1,6 +1,12 @@
 # Hogyan készíts magyar feliratot angol videókhoz?
 Könnyen megérthető tutorial!
 
+> [!TIP]
+> Dolgok amik kelleni fognak: Egy számítógép (laptop vagy PC), és egy e-mail cím!
+
+> [!IMPORTANT]
+> Regisztrálni és letölteni is kell majd!
+
 ## 1. Lépés - Videó letöltése
 - Videó kiválasztása (amit feliratozni akarsz), a példában egy facebook letöltőt lehet látni.
 - Menj fel erre az oldalra: https://fdown.net/
@@ -23,3 +29,4 @@ Könnyen megérthető tutorial!
 
 ## 2. Lépés - Feliratozás
 - Menj fel és regisztrálj a https://web.descript.com/ oldalon! 
+![Feliratozás]
