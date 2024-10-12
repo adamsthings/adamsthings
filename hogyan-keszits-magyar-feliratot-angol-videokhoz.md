@@ -13,6 +13,9 @@ Könnyen megérthető tutorial!
 ![Az oldal kinézete, és funkciói](https://i.imgur.com/uClDrpX.png)
 *Az oldal kinézete, és funkciói*
 
+> [!TIP]
+> YouTube letöltéshez: https://ytmp4.page/
+
 - Másold ki a facebook videó linkjét
 ![Letöltés](https://i.imgur.com/a5eyWV9.png)
 
