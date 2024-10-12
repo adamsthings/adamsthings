@@ -8,48 +8,48 @@ Könnyen megérthető tutorial!
 > Regisztrálni és letölteni is kell majd!
 
 ## 1. Lépés - Videó letöltése
-- Videó kiválasztása (amit feliratozni akarsz), a példában egy facebook letöltőt lehet látni.
-- Menj fel erre az oldalra: https://fdown.net/
+### Videó kiválasztása (amit feliratozni akarsz), a példában egy facebook letöltőt lehet látni.
+### Menj fel erre az oldalra: https://fdown.net/
 ![Az oldal kinézete, és funkciói](https://i.imgur.com/uClDrpX.png)
 *Az oldal kinézete, és funkciói*
 
 > [!TIP]
 > YouTube letöltéshez: https://ytmp4.page/
 
-- Másold ki a facebook videó linkjét
+### Másold ki a facebook videó linkjét
 ![Letöltés](https://i.imgur.com/a5eyWV9.png)
 
 
 *Facebook videó linkjének kimásolása*
 
-- Kattints a "Download" majd a "Download Video in HD" gombra!
+### Kattints a "Download" majd a "Download Video in HD" gombra!
 ![letöltés](https://i.imgur.com/tGWi2wL.png)
 
-- Sikeres letöltés! :+1:
+### Sikeres letöltés! :+1:
 
 
 ![letöltés](https://i.imgur.com/92SfRwG.png)
 
 ## 2. Lépés - Feliratozás
-- Menj fel és regisztrálj a https://web.descript.com/ oldalon! 
+### Menj fel és regisztrálj a https://web.descript.com/ oldalon! 
 ![Feliratozás](https://i.imgur.com/ivR8e6i.png)
 
-- Regisztráció után válaszd ki a "New project" gombot!
+### Regisztráció után válaszd ki a "New project" gombot!
 ![Feliratozás](https://i.imgur.com/G7PrCyS.png)
 
-- Válaszd ki a "Video project"-et!
+### Válaszd ki a "Video project"-et!
 
 ![Feliratozás](https://i.imgur.com/S3zEjZ8.png)
 
-- Majd az "Upload file"-nál válaszd ki a fájlt!
+### Majd az "Upload file"-nál válaszd ki a fájlt!
 
 ![Feliratozás](https://i.imgur.com/IeScju8.png)
 ![Feliratozás](https://i.imgur.com/GblyB0t.png)
 
-- Ez az ablak fog utána megjelenni. A képen látható módon kell beállítani!
+### Ez az ablak fog utána megjelenni. A képen látható módon kell beállítani!
 
 ![Feliratozás](https://i.imgur.com/Xl8eT7B.png)
 
-- Miután legenerálta az angol szöveget, kattints a "Publish" Gombra!
+### Miután legenerálta az angol szöveget, kattints a "Publish" Gombra!
 
 ![Feliratozás](https://i.imgur.com/O6Ssll4.png)
