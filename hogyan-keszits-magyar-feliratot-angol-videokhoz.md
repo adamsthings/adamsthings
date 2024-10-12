@@ -9,6 +9,8 @@ Könnyen megérthető tutorial!
 
 - Másold ki a facebook videó linkjét
 ![Letöltés](https://i.imgur.com/a5eyWV9.png)
+
+
 *Facebook videó linkjének kimásolása*
 
 - Kattints a "Download" majd a "Download Video in HD" gombra!
