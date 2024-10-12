@@ -17,6 +17,8 @@ Könnyen megérthető tutorial!
 ![letöltés](https://i.imgur.com/tGWi2wL.png)
 
 - Sikeres letöltés! :+1:
+
+
 ![letöltés](https://i.imgur.com/92SfRwG.png)
 
 ## 2. Lépés - Feliratozás
