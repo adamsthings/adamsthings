@@ -45,3 +45,11 @@ Könnyen megérthető tutorial!
 
 ![Feliratozás](https://i.imgur.com/IeScju8.png)
 ![Feliratozás](https://i.imgur.com/GblyB0t.png)
+
+- Ez az ablak fog utána megjelenni. A képen látható módon kell beállítani!
+
+![Feliratozás](https://i.imgur.com/Xl8eT7B.png)
+
+- Miután legenerálta az angol szöveget, kattints a "Publish" Gombra!
+
+![Feliratozás](https://i.imgur.com/O6Ssll4.png)
