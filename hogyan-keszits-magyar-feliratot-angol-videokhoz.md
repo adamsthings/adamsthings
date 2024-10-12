@@ -16,5 +16,8 @@ Könnyen megérthető tutorial!
 - Kattints a "Download" majd a "Download Video in HD" gombra!
 ![letöltés](https://i.imgur.com/tGWi2wL.png)
 
-Sikeres letöltés!
+- Sikeres letöltés! :+1:
 ![letöltés](https://i.imgur.com/92SfRwG.png)
+
+## 2. Lépés - Feliratozás
+- Menj fel és regisztrálj a https://web.descript.com/ oldalon! 
