@@ -62,3 +62,4 @@ Könnyen megérthető tutorial!
 > Ha nem a SubRip Titles-t választod nem fogod tudni legenerálni magyarul a videó feliratot!!!!
 
 ![Feliratozás](https://i.imgur.com/C3FI31B.png)
+![Feliratozás](https://i.imgur.com/ikRaaJq.png)
