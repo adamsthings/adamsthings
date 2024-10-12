@@ -53,3 +53,12 @@ Könnyen megérthető tutorial!
 ### Miután legenerálta az angol szöveget, kattints a "Publish" Gombra!
 
 ![Feliratozás](https://i.imgur.com/O6Ssll4.png)
+
+### Majd az Export gombra!
+![Feliratozás](https://i.imgur.com/Mh26WSj.png)
+
+### Válaszd a "Subtitles"-t, azon belül a "SubRip Titles (.srt)"-t!
+> [!WARNING]
+> Ha nem a SubRip Titles-t választod nem fogod tudni legenerálni magyarul a videó feliratot!!!!
+
+![Feliratozás](https://i.imgur.com/C3FI31B.png)
