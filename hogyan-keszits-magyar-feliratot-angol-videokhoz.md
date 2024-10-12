@@ -38,4 +38,5 @@ Könnyen megérthető tutorial!
 ![Feliratozás](https://i.imgur.com/G7PrCyS.png)
 
 - Válaszd ki a "Video project"-et!
+
 ![Feliratozás](https://i.imgur.com/S3zEjZ8.png)
