@@ -40,3 +40,8 @@ Könnyen megérthető tutorial!
 - Válaszd ki a "Video project"-et!
 
 ![Feliratozás](https://i.imgur.com/S3zEjZ8.png)
+
+- Majd az "Upload file"-nál válaszd ki a fájlt!
+
+![Feliratozás](https://i.imgur.com/IeScju8.png)
+![Feliratozás](https://i.imgur.com/GblyB0t.png)
