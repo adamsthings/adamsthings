@@ -84,6 +84,8 @@ HAMAROSAN FOLYTATOM!
 
 
 # ÖSSZEGZÉS:
-[Videó kiválasztása (amit feliratozni akarsz), a példában egy facebook letöltőt lehet látni.](https://github.com/adamsthings/adamsthings/blob/main/hogyan-keszits-magyar-feliratot-angol-videokhoz.md#vide%C3%B3-kiv%C3%A1laszt%C3%A1sa-amit-feliratozni-akarsz-a-p%C3%A9ld%C3%A1ban-egy-facebook-let%C3%B6lt%C5%91t-lehet-l%C3%A1tni)
-[Menj fel erre az oldalra: https://fdown.net/](https://github.com/adamsthings/adamsthings/blob/main/hogyan-keszits-magyar-feliratot-angol-videokhoz.md#menj-fel-erre-az-oldalra-httpsfdownnet)
-[Másold ki a facebook videó linkjét](https://github.com/adamsthings/adamsthings/blob/main/hogyan-keszits-magyar-feliratot-angol-videokhoz.md#m%C3%A1sold-ki-a-facebook-vide%C3%B3-linkj%C3%A9t)
+- [Videó kiválasztása (amit feliratozni akarsz), a példában egy facebook letöltőt lehet látni.](https://github.com/adamsthings/adamsthings/blob/main/hogyan-keszits-magyar-feliratot-angol-videokhoz.md#vide%C3%B3-kiv%C3%A1laszt%C3%A1sa-amit-feliratozni-akarsz-a-p%C3%A9ld%C3%A1ban-egy-facebook-let%C3%B6lt%C5%91t-lehet-l%C3%A1tni)
+
+- [Menj fel erre az oldalra: https://fdown.net/](https://github.com/adamsthings/adamsthings/blob/main/hogyan-keszits-magyar-feliratot-angol-videokhoz.md#menj-fel-erre-az-oldalra-httpsfdownnet)
+
+- [Másold ki a facebook videó linkjét](https://github.com/adamsthings/adamsthings/blob/main/hogyan-keszits-magyar-feliratot-angol-videokhoz.md#m%C3%A1sold-ki-a-facebook-vide%C3%B3-linkj%C3%A9t)
